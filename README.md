@@ -1,16 +1,17 @@
-### Hi there 👋
+## 🔫 Gunslinger 🔫
 
-<!--
-**gunslinger23/gunslinger23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋, I'm Gunslinger, Welcome to my github profile~
 
-Here are some ideas to get you started:
+Now I am the full stack engineer at 🎮 gaming community. [![NewPage](https://avatars1.githubusercontent.com/u/44505849?s=20&v=4)](https://github.com/NewPage-Community)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything's I working on in this community is open source!
+
+### Me in ❤️Github❤️
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gunslinger23&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunslinger23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact Me
+
+🐧 1007708137  📮 gunslinger-ovo@qq.com
