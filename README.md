@@ -9,10 +9,8 @@ Everything's I working on in this community is open source!
 ### Me in ❤️GitHub❤️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunslinger23&count_private=true&show_icons=true)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunslinger23)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunslinger23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunslinger23)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 
